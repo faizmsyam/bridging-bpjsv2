@@ -9,7 +9,7 @@
         }
     ],
     "license": "mit",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Faizmsyam\\BpjsV2\\": "src/"
