@@ -8,7 +8,7 @@ Created because i don't really wanna get my hands dirty coz of using the old php
 
 #### Installation :fire:
 
-`composer require faizmsyam/bpjs`
+`composer require faizmsyam/bpjsv2`
 
 #### Example Usage :confetti_ball:
 ```php
