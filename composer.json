@@ -1,0 +1,22 @@
+{
+    "name": "faizmsyam/bpjsv2",
+    "description": "Wrapper for BPJS Indonesia",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Faiz Muhammad Syam",
+            "email": "faizmsyam@gmail.com"
+        }
+    ],
+    "license": "mit",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Faizmsyam\\BpjsV2\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1",
+        "nullpunkt/lz-string-php": "^1.3"
+    }
+}
